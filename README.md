@@ -1,2 +1,2 @@
 # oobie
-Setup interact server and client with notify as services
+Setup interactsh server and client with notify as services
